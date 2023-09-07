@@ -1,7 +1,27 @@
 # ProgramacionWebDesdeCero
 
+## Table of Contents
+1. [General Info](#general-info)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
+4. [Collaboration](#collaboration)
+5. [FAQs](#faqs)
+
+***
+
+### General Info
 Programacion Web Desde Cero (HTML, CSS, Js) - 2023
 
+### Screenshot
+![Desktop](PortafolioWebJEHM/media/recursos/webpage1.png)
+
+![Mobile](PortafolioWebJEHM/media/recursos/webpage2.png)
+***
+## Technologies
+List of technologies used within the project:
+* [HTML](PortafolioWebJEHM/media/recursos/html5_logo.png): HTML 5
+* [CSS](PortafolioWebJEHM/media/recursos/CSS3_logo.png):: Version CSS3
+* [JavaScrpt]: Version ES9
 ***
 
 ## Paso #1:
@@ -70,7 +90,7 @@ Permite cargar los estilo de la pagina Web.
 
 #### Selector por ID:
 
-Se utiliza para referenciar a aquellos atributos que esten marcados con el ID
+Se utiliza para referenciar a aquellos atributos que esten marcados con el ID:
 
 ```HTML
 <p id="header"> Hola Mundo </p>
@@ -85,7 +105,7 @@ Se utiliza para referenciar a aquellos atributos que esten marcados con el ID
 Se utiliza para referenciar las clases de los componentes que esten marcados con la clase:
 
 ```HTML
-<p clase="header"> Hola Mundo </p>
+<p class="header"> Hola Mundo </p>
 ```
 ```CSS
 .header {
