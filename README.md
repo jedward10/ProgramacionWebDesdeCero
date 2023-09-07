@@ -8,9 +8,6 @@
 5. [Intorduccion a HTML 5](#Paso-#3:-Intorduccion-a-HTML-5)
 6. [Manipulando HTML](#Paso-#4:-Manipulando-HTML!)
 7. [Intorduccion a CSS](#paso-5-css)
-    7.1. [Selectores](#selectores)
-    7.1.1. [Selector por ID](#selector-por-id)
-    7.1.1. [Selector por clase](#selector-por-clase)
 
 ***
 
@@ -22,14 +19,14 @@ Programacion Web Desde Cero (HTML, CSS, Js) - 2023
 
 ![Mobile](PortafolioWebJEHM/media/recursos/webpage2.png)
 ***
-## Technologies
+### Technologies
 List of technologies used within the project:
 * [HTML]: Version HTML 5
 * [CSS]: Version CSS3
 * [JavaScrpt]: Version ES9
 ***
 
-## Paso #1: Introduccion
+### Paso #1: Introduccion
 
 Vamos a utilizar Visual Studio Code como editor de código.
 
@@ -48,13 +45,13 @@ Requisitos:
 
 ***
 
-## Paso #2: Idea inicial
+### Paso #2: Idea inicial
 
 Piensa en una idea que deseas plasmar en un pagina web.
 
 ***
 
-## Paso #3: Intorduccion a HTML 5
+### Paso #3: Intorduccion a HTML 5
 
 Crea un archivo index.html y genera la estructura básica de un documento HTML dentro del mismo. Esto significa que debe incluir las etiquetas:
 
@@ -71,7 +68,7 @@ Crea un archivo index.html y genera la estructura básica de un documento HTML d
 
 ***
 
-## Paso #4: Manipulando HTML!
+### Paso #4: Manipulando HTML!
 
 ![Html Semantico](PortafolioWebJEHM/media/recursos/htmlSemantico.png)
 
@@ -81,12 +78,12 @@ La estructura HTML permite definir paginas web que sean mas legibles:
 
 ***
 
-## Paso 5: CSS
+### Paso 5: CSS
 ¡Introducción a las hojas de estilo!
 
 Permite cargar los estilo de la pagina Web.
 
-## Selectores:
+### Selectores:
 
 | Tipos de selectores| Descripcion Selectores|
 | :-------- | --------:|
