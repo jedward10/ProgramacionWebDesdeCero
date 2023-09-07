@@ -3,10 +3,10 @@
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
-3. [Introduccion](#Paso-#1:-Introduccion)
-4. [Idea inicial](#Paso-#2:-Idea-inicial)
-5. [Intorduccion a HTML 5](#Paso-#3:-Intorduccion-a-HTML-5)
-6. [Manipulando HTML](#Paso-#4:-Manipulando-HTML!)
+3. [Introduccion](#paso-1-introduccion)
+4. [Idea inicial](#paso-2-idea-inicial)
+5. [Intorduccion a HTML 5](#paso-3-intorduccion-a-html-5)
+6. [Manipulando HTML](#paso-4-manipulando-html)
 7. [Intorduccion a CSS](#paso-5-css)
 
 ***
