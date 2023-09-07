@@ -3,15 +3,20 @@
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+3. [Introduccion](#Paso-#1:-Introduccion)
+4. [Idea inicial](#Paso-#2:-Idea-inicial)
+5. [Intorduccion a HTML 5](#Paso-#3:-Intorduccion-a-HTML-5)
+6. [Manipulando HTML](#Paso-#4:-Manipulando-HTML!)
+7. [Intorduccion a CSS](#paso-5-css)
+    7.1. [Selectores](#selectores)
+    7.1.1. [Selector por ID](#selector-por-id)
+    7.1.1. [Selector por clase](#selector-por-clase)
 
 ***
 
 ### General Info
 Programacion Web Desde Cero (HTML, CSS, Js) - 2023
-
+***
 ### Screenshot
 ![Desktop](PortafolioWebJEHM/media/recursos/webpage1.png)
 
@@ -19,12 +24,12 @@ Programacion Web Desde Cero (HTML, CSS, Js) - 2023
 ***
 ## Technologies
 List of technologies used within the project:
-* [HTML](PortafolioWebJEHM/media/recursos/html5_logo.png): HTML 5
-* [CSS](PortafolioWebJEHM/media/recursos/CSS3_logo.png):: Version CSS3
+* [HTML]: Version HTML 5
+* [CSS]: Version CSS3
 * [JavaScrpt]: Version ES9
 ***
 
-## Paso #1:
+## Paso #1: Introduccion
 
 Vamos a utilizar Visual Studio Code como editor de código.
 
@@ -81,7 +86,7 @@ La estructura HTML permite definir paginas web que sean mas legibles:
 
 Permite cargar los estilo de la pagina Web.
 
-### Selectores:
+## Selectores:
 
 | Tipos de selectores| Descripcion Selectores|
 | :-------- | --------:|
