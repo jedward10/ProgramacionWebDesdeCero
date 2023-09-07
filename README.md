@@ -36,11 +36,11 @@ Por ejemplo:
 
 ## Paso #4: Manupulando HTML!
 
-![Html Semantico](PortafolioWebJEHM\media\recursos\htmlSemantico.png)
+![Html Semantico](PortafolioWebJEHM/media/recursos/htmlSemantico.png)
 
 La estructura HTML permite definir paginas web que sean mas legibles:
 
-![Estructura HTML](PortafolioWebJEHM\media\recursos\estructuraHTML.png)
+![Estructura HTML](PortafolioWebJEHM/media/recursos/estructuraHTML.png)
 
 ¡Introducción a las hojas de estilo!
 
