@@ -50,8 +50,8 @@ Permite cargar los estilo de la pagina Web.
 
 ### Selectores:
 
-| Tipos de selectores||
-| :-------- | :-------: |
+| Tipos de selectores| |
+| :-------- | --------:|
 | ID | Identificador Unico de un elemento |
 | Clase | Composicion de estilos sobre un elemento HTML y compartido |
 
