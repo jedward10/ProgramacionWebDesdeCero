@@ -72,17 +72,23 @@ Permite cargar los estilo de la pagina Web.
 
 Se utiliza para referenciar a aquellos atributos que esten marcados con el ID
 
+```HTML
+<p id="header"> Hola Mundo </p>
+```
 ```CSS
-# nombreID {
-    ....
+#header {
+   background-color: rgb(230, 230, 230);
 }
 ```
 #### Selector por clase:
 
 Se utiliza para referenciar las clases de los componentes que esten marcados con la clase:
 
+```HTML
+<p clase="header"> Hola Mundo </p>
+```
 ```CSS
-.NombreClase {
-    ....
+.header {
+    background-color: rgb(230, 230, 230);
 }
 ```
